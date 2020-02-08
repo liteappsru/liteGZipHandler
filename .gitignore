@@ -1,2 +1,9 @@
 *.xml
+*.1CD
+*.cfl
+*.1CL
+*.cgr
+*.cf
+*.dt
+
 !ext/*.xml
