@@ -5,7 +5,7 @@
 *.cgr
 *.cf
 *.dt
+*.lgf
+*.lgp
 
-1Cv8Log.*
-
-!ext/*.xml
+!*ext/*.xml
