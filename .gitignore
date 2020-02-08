@@ -6,4 +6,6 @@
 *.cf
 *.dt
 
+1Cv8Log.*
+
 !ext/*.xml
