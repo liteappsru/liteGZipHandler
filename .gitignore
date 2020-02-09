@@ -7,9 +7,13 @@
 *.dt
 *.lgf
 *.lgp
-*.erf
 *.epf
+*.erf
+*.bin
 
 !*ext/*.xml
 1Cv8Log/*
 1Cv8Log/*
+1CHelpIndex/*
+1Cv8JobScheduler/*
+1Cv8Temp/*
