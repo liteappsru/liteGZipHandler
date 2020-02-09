@@ -9,4 +9,7 @@
 {12,
 {0},1},
 {13,1,1},
-{4,"_$Session$_.Start",2}
+{4,"_$Session$_.Start",2},
+{4,"_$InfoBase$_.ConfigUpdate",3},
+{4,"_$InfoBase$_.DBConfigUpdateStart",4},
+{4,"_$InfoBase$_.DBConfigUpdate",5}
